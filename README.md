@@ -1,2 +1,2 @@
-# angulat-cli-demo
+# angular-cli-demo
 angular-cli 测试
